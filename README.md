@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://pedro-muller.de" target="blank">
 Pedro</a></h1>
-<h3 align="center">A Software Developer living in Berlin &#127470;&#127475</h3>
+<h3 align="center">A Software Developer living in Berlin</h3>
 
 <p align="left"> <a href="https://twitter.com/pedromagmul" target="blank"><img src="https://img.shields.io/twitter/follow/pedromagmul?logo=twitter&style=for-the-badge" alt="pedromagmul" /></a> </p>
 
