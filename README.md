@@ -12,8 +12,6 @@ Pedro</a></h1>
 
 - 🌱 I’m currently a Backend Django Developer
 
-- 🌱 I’m currently React
-
-- 📝 I regularly write articles on pedro-muller.de
+- 📝 I write articles on pedro-muller.de and other platforms
 
 - 📫 How to reach me **pedro.magnomuller@gmail.com**
