@@ -12,4 +12,4 @@ Pedro</a></h1>
 
 - 📝 I write articles on pedro-muller.de and other platforms
 
-- 📫 How to reach me **pedro.magnomuller@gmail.com** ,twitter.com/pedromagmul, [linke](https://www.linkedin.com/in/pedro-magno-m%C3%BCller/)
+- 📫 How to reach me **pedro.magnomuller@gmail.com** ,twitter.com/pedromagmul, [linkedin.com/pedromagnomuller](https://www.linkedin.com/in/pedro-magno-m%C3%BCller/), [pedro-muller.de](pedro-muller.de)
