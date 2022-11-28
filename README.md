@@ -8,8 +8,6 @@ Pedro</a></h1>
 
 - 🔭 I’m currently working at pragmatic industries</a>
 
-- 🌱 I’m currently a Backend Django Developer
-
 - 📝 I write articles on pedro-muller.de and other platforms
 
 - 📫 How to reach me **pedro.magnomuller@gmail.com** 
