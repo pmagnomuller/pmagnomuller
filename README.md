@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://pedro-muller.de" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.pedro-muller.com" target="blank">
 Pedro</a></h1>
 <h3 align="center">A Software Developer living in Berlin</h3>
 
