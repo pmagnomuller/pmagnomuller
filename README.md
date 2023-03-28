@@ -11,3 +11,5 @@ Pedro</a></h1>
 - 📝 I write articles on pedro-muller.de and other platforms
 
 - 📫 How to reach me **pedro.magnomuller@gmail.com** 
+
+- Find me on https://replit.com/@pmagnomuller as well
