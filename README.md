@@ -8,8 +8,8 @@ Pedro</a></h1>
 
 - 🔭 I’m currently working at Ostrom</a>
 
-- 📝 I write articles on pedro-muller.de and other platforms
+- 📝 I write articles on <a href="https://www.pedro-muller.com" target="blank">pedro-muller.de</a> and other platforms
 
 - 📫 How to reach me **pedro.magnomuller@gmail.com** 
 
-- Find me on https://replit.com/@pmagnomuller as well
+- Find me on <a href="https://replit.com/@pmagnomuller" target="blank"Replit</a> as well
