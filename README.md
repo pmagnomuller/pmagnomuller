@@ -7,6 +7,8 @@
 ## 👋 Hey there!  
 I'm **Pedro**, a passionate software developer based in **Berlin**. I specialize in **TypeScript, NestJS**, and clean software design. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
 
+- Current work account: [@pedromagnomuller](https://github.com/pedromagnomuller)
+
 ## 🚀 About Me  
 
 🔭 **Currently working on:**  
