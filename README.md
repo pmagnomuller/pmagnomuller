@@ -17,7 +17,7 @@ I'm **Pedro**, a passionate software developer based in **Berlin**. I specialize
 🌍 **More on my work and thoughts:**  
 - Software development best practices  
 - Energy markets and quantitative modeling  
-- My latest thoughts can be found on **[pedro-muller.com](https://www.pedro-muller.com)**  
+- My latest thoughts can be found on **[pmagnomuller.github.io](https://pmagnomuller.github.io)**  
 
 📫 **Get in touch:**  
 - Email: **[pedro.magnomuller@gmail.com](mailto:pedro.magnomuller@gmail.com)**  
