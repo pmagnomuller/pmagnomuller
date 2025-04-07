@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-pedro.magnomuller@gmail.com-red?style=flat-square&logo=gmail)](mailto:pedro.magnomuller@gmail.com)  
 
 ## 👋 Hey there!  
-I'm **Pedro**, a passionate software developer based in **Berlin**. I specialize in **TypeScript, NestJS**, and clean software design. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
+I'm **Pedro**, a passionate engineer based in **Berlin**. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
 
 - Current work account: [@pedromagnomuller](https://github.com/pedromagnomuller)
 
@@ -76,7 +76,3 @@ Explore my latest projects and insights at **[pmagnomuller.github.io](https://pm
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </p>
-
----
-
-🔥 **Fun fact:** I enjoy optimizing complex systems—whether in software, finance, or energy markets! 🚀  
