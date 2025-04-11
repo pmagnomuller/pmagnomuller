@@ -24,8 +24,6 @@ Explore my latest projects and insights at **[pmagnomuller.github.io](https://pm
 
 ---
 
-## 🛠 My Tech Stack  
-
 ### 🚀 Languages & Frameworks  
 <p align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
