@@ -9,6 +9,3 @@ I'm **Pedro**, a passionate engineer based in **Berlin**. Currently, I work at *
 
 🌍 **More on my work and thoughts:**  
 Explore my latest projects and insights at **[pmagnomuller.github.io](https://pmagnomuller.github.io/)**  
-
-📫 **Get in touch:**  
-- Email: **[pedro.magnomuller@gmail.com](mailto:pedro.magnomuller@gmail.com)**  
