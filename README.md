@@ -7,8 +7,6 @@
 ## 👋 Hey there!  
 I'm **Pedro**, a passionate engineer based in **Berlin**. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
 
-- Current work account: [@pedromagnomuller](https://github.com/pedromagnomuller)
-
 🌍 **More on my work and thoughts:**  
 Explore my latest projects and insights at **[pmagnomuller.github.io](https://pmagnomuller.github.io/)**  
 
