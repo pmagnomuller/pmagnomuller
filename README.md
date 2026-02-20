@@ -8,4 +8,4 @@
 I'm **Pedro**, a passionate engineer based in **Berlin**. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
 
 🌍 **More on my work and thoughts:**  
-Explore my latest projects and insights at **[pmagnomuller.github.io](https://pmagnomuller.github.io/)**  
+Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**  
