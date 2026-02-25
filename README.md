@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-pedro.magnomuller@gmail.com-red?style=flat-square&logo=gmail)](mailto:pedro.magnomuller@gmail.com)  
 
 ## 👋 Hey there!  
-I'm **Pedro**, a passionate engineer based in **Berlin**. Currently, I work at **Ostrom**, where I focus on building scalable solutions in the energy sector.  
+I'm **Pedro**, a passionate engineer based in **Berlin**.
 
 🌍 **More on my work and thoughts:**  
 Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**  
