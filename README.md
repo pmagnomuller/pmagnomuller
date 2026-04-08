@@ -7,5 +7,4 @@
 ## 👋 Hey there!  
 I'm **Pedro**, a passionate engineer based in **Berlin**.
 
-🌍 **More on my work and thoughts:**  
 Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**  
