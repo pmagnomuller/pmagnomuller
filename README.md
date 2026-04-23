@@ -5,8 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-pedro.magnomuller@gmail.com-red?style=flat-square&logo=gmail)](mailto:pedro.magnomuller@gmail.com)  
 
 ## 👋 Hey there!  
-I'm **Pedro**, a passionate engineer based in **Berlin**.
-
-Currently building with and for AI.
+I'm **Pedro**, an engineer based in **Berlin**.
 
 Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**  
