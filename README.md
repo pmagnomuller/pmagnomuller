@@ -8,4 +8,16 @@
 ## 👋 Hey there!  
 I'm **Pedro**, an engineer based in **Berlin**.
 
-Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**  
+Explore my latest projects and insights at **[pedro-muller.com](https://pedro-muller.com/)**
+
+## Writing
+
+Project writeups on [pedro-muller.com](https://pedro-muller.com/):
+
+- [Cursor as Your Tool](https://pedro-muller.com/cursor-as-your-tool/)
+- [Catchup Digest](https://pedro-muller.com/projects/catchup-digest/)
+- [AI Crate Digger](https://pedro-muller.com/projects/ai-crate-digger/)
+- [Live coding music](https://pedro-muller.com/live-coding-music/)
+- [OpenClaw on My Homelab](https://pedro-muller.com/homelab/openclaw-on-my-homelab/)
+- [Conduit](https://pedro-muller.com/ai/conduit/)
+
